@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:53:59.624Z'
-dateModified: '2016-01-18T22:53:56.885Z'
+datePublished: '2016-01-18T22:59:07.805Z'
+dateModified: '2016-01-18T22:59:05.109Z'
 title: Three Keys to Managing a Creative Team
 author: []
 sourcePath: _posts/2016-01-18-three-keys-to-managing-a-creative-team.md
@@ -22,7 +22,7 @@ url: three-keys-to-managing-a-creative-team/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5040e122-8e56-441c-86e2-c371cf7d9159.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89232b998832f713b1ad010ff1b70e68b4741a25.png)
 
 # Three Keys to Managing a Creative Team
 
