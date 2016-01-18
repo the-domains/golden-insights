@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T23:42:26.448Z'
+datePublished: '2016-01-18T23:42:26.462Z'
 dateModified: '2016-01-18T23:41:21.784Z'
 title: Three Keys to Managing a Creative Team
 author: []
