@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blog Post
-datePublished: '2016-01-18T22:47:19.786Z'
-dateModified: '2016-01-18T22:47:03.170Z'
+datePublished: '2016-01-18T22:51:07.892Z'
+dateModified: '2016-01-18T22:50:54.884Z'
 title: '"Vintage" has no business in business process'
 author: []
 sourcePath: _posts/2016-01-18-vintage-has-no-business-in-business-process.md
