@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:38:33.464Z'
-dateModified: '2016-01-18T22:38:09.557Z'
+datePublished: '2016-01-18T22:41:47.828Z'
+dateModified: '2016-01-18T22:40:31.825Z'
 title: Three Keys to Managing a Creative Team
 author: []
 authors: []
