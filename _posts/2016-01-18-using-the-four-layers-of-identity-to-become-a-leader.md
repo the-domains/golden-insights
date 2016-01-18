@@ -6,28 +6,28 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T23:55:20.860Z'
-dateModified: '2016-01-18T23:55:01.968Z'
+datePublished: '2016-01-18T23:58:48.494Z'
+dateModified: '2016-01-18T23:58:35.415Z'
 title: Using the Four Layers Of Identity To Become A Leader
 author: []
+sourcePath: _posts/2016-01-18-using-the-four-layers-of-identity-to-become-a-leader.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-using-the-four-layers-of-identity-to-become-a-leader.md
-published: true
 url: using-the-four-layers-of-identity-to-become-a-leader/index.html
 _type: Article
 
 ---
 # Using the Four Layers Of Identity To Become A Leader
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec29e69-2ceb-46ca-aa52-3659007abe00.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cddb65959f2e0d35e2385eb11689b5bee90195f1.jpg)
 
-Recently, I came across some work I did while I was in graduate school, which took me down a nostalgic and intellectual rabbit hole. As a graduate student, I was introduced to the Communication Theory of Identity by my mentor Dr. Michael Hecht. His theory provided me a framework for much of my graduate work.  With over a decade and a half of professional life under my belt, the Communication Theory of Identity is still as relevant to me now as it was when I was writing papers and defending my thesis. (Yes, graduate school_was_worth it!)
+Recently, I came across some work I did while I was in graduate school, which took me down a nostalgic and intellectual rabbit hole. As a graduate student, I was introduced to the Communication Theory of Identity by my mentor Dr. Michael Hecht. His theory provided me a framework for much of my graduate work.  With over a decade and a half of professional life under my belt, the Communication Theory of Identity is still as relevant to me now as it was when I was writing papers and defending my thesis. (Yes, graduate school _was _worth it!)
 
-Among other things, Dr. Hecht's  framework (learn more[here][0]and[here][1]), states that there are four frames or layers of identity that play off each other:
+Among other things, Dr. Hecht's  framework (learn more [here][0] and [here][1]), states that there are four frames or layers of identity that play off each other:
 
 * Personal Layer: Our self-image and self-concept as well as how people perceive us are tied up in the personal frame. At the personal frame, identity defines characteristics of the self.
 * Enactment Layer: Our identities emerge from what we say and do and how we act in certain situations. Behaviors not only allow people and communities to express an identity, but the behaviors themselves can define identity.  
