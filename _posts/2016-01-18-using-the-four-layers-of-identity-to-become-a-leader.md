@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T23:58:48.494Z'
+datePublished: '2016-01-18T23:58:48.531Z'
 dateModified: '2016-01-18T23:58:35.415Z'
 title: Using the Four Layers Of Identity To Become A Leader
 author: []
