@@ -1,0 +1,14 @@
+layout_spectrum: 0.398881
+color:
+  saturation: 0.2706093
+  brandStrength: 0.8888889
+  lightness: 0.672043
+  brandColors:
+    - '#FEFEFE'
+    - '#545C30'
+    - '#02010D'
+    - '#F3C6AB'
+    - '#C69177'
+  rhythmicContrast: 0.4121864
+typography_spectrum: 0.1305384
+name: Golden Insights
