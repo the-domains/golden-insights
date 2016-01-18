@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:47:29.957Z'
-dateModified: '2016-01-18T22:47:10.580Z'
+datePublished: '2016-01-18T22:53:59.557Z'
+dateModified: '2016-01-18T22:53:56.885Z'
 title: Three Keys to Managing a Creative Team
 author: []
 sourcePath: _posts/2016-01-18-three-keys-to-managing-a-creative-team.md
@@ -22,6 +22,8 @@ url: three-keys-to-managing-a-creative-team/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5040e122-8e56-441c-86e2-c371cf7d9159.png)
+
 # Three Keys to Managing a Creative Team
 
 As a leader of a creative team, it's so gratifying to see my team's work on display. I'm proud that my small team regularly completes over 60 deliverables a month that help our company communicate to our employees, our clients, and our partners. Although my creative staff is responsible for doing the heavy lifting, my responsibility is to insure that they have the right resources, the appropriate direction, and the information needed to deliver websites, videos, presentations, print pieces, and business solutions that delight our clients.
@@ -35,7 +37,6 @@ I've learned that creativity only happens when creative people are free to creat
 * Empowered team members
 
 ## Creative teams need strong processes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5040e122-8e56-441c-86e2-c371cf7d9159.png)
 
 I would never feel comfortable with my project manager shooting video, writing code, or designing websites.  So, why would I feel comfortable with my creative professionals doing project management?
 
