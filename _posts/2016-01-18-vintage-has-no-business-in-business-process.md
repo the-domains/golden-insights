@@ -5,23 +5,27 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-18T22:24:34.105Z'
-dateModified: '2016-01-18T22:23:52.282Z'
+description: Blog Post
+datePublished: '2016-01-18T22:39:09.226Z'
+dateModified: '2016-01-18T22:34:34.643Z'
 title: '"Vintage" has no business in business process'
 author: []
+sourcePath: _posts/2016-01-18-vintage-has-no-business-in-business-process.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-vintage-has-no-business-in-business-process.md
-published: true
 url: vintage-has-no-business-in-business-process/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c124faee-cb0c-423a-93dd-45df22080ec0.jpg)
+
+Vintage: Representing the high quality of a past time.\*
+
 > Vintage: Representing the high quality of a past time.\*
 
 A number of years ago, I interviewed someone for a business analyst position, and the interviewee referred to an old process as a "vintage process." I chuckled when he uttered the phrase, because those two words just don't go together.
@@ -41,7 +45,6 @@ Companies that know how to adapt through process improvement are able to remain 
 Successful companies relentlessly reevaluate how they deliver their products by questioning the value proposition of each and every step along the way. These winning companies fight through structural pressures; their cultures support change; and their employees understand the benefit of process change--and they wait to express their love of vintage until the workday is done.
 
 \*[Dictionary.com definition][4]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c124faee-cb0c-423a-93dd-45df22080ec0.jpg)
 
 [0]: https://hbr.org/1999/07/why-good-companies-go-bad
 [1]: http://www.cmswire.com/digital-experience/speed-read-heres-how-retailers-can-lose-business/
