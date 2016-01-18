@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:41:47.828Z'
-dateModified: '2016-01-18T22:40:31.825Z'
+datePublished: '2016-01-18T22:45:00.091Z'
+dateModified: '2016-01-18T22:44:56.903Z'
 title: Three Keys to Managing a Creative Team
 author: []
+sourcePath: _posts/2016-01-18-three-keys-to-managing-a-creative-team.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-three-keys-to-managing-a-creative-team.md
-published: true
 url: three-keys-to-managing-a-creative-team/index.html
 _type: Article
 
 ---
-Three Keys to Managing a Creative Team
+# Three Keys to Managing a Creative Team
 
 As a leader of a creative team, it's so gratifying to see my team's work on display. I'm proud that my small team regularly completes over 60 deliverables a month that help our company communicate to our employees, our clients, and our partners. Although my creative staff is responsible for doing the heavy lifting, my responsibility is to insure that they have the right resources, the appropriate direction, and the information needed to deliver websites, videos, presentations, print pieces, and business solutions that delight our clients.
 
