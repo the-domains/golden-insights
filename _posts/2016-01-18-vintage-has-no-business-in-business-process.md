@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Blog Post
-datePublished: '2016-01-18T22:45:59.989Z'
-dateModified: '2016-01-18T22:45:56.978Z'
+datePublished: '2016-01-18T22:47:19.559Z'
+dateModified: '2016-01-18T22:47:03.170Z'
 title: '"Vintage" has no business in business process'
 author: []
 sourcePath: _posts/2016-01-18-vintage-has-no-business-in-business-process.md
