@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blog Post
-datePublished: '2016-01-18T22:47:19.659Z'
+datePublished: '2016-01-18T22:47:19.786Z'
 dateModified: '2016-01-18T22:47:03.170Z'
 title: '"Vintage" has no business in business process'
 author: []
