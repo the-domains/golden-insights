@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "As a leader of a creative team, it's so gratifying to see my team's work on display. I'm proud that my small team regularly completes over 60 deliverables a month that help our company communicate to our employees, our clients, and our partners. Although my creative staff is responsible for doing the heavy lifting, my responsibility is to insure that they have the right resources, the appropriate direction, and the information needed to deliver websites, videos, presentations, print pieces, and business solutions that delight our clients."
-datePublished: '2016-04-18T17:51:14.588Z'
-dateModified: '2016-04-18T17:50:48.631Z'
+datePublished: '2016-04-18T17:52:01.005Z'
+dateModified: '2016-04-18T17:51:23.446Z'
 title: ''
 author:
   - name: ''
