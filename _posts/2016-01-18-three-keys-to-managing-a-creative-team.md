@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-18T23:42:26.597Z'
-dateModified: '2016-01-18T23:41:21.784Z'
-title: Three Keys to Managing a Creative Team
-author: []
+description: "As a leader of a creative team, it's so gratifying to see my team's work on display. I'm proud that my small team regularly completes over 60 deliverables a month that help our company communicate to our employees, our clients, and our partners. Although my creative staff is responsible for doing the heavy lifting, my responsibility is to insure that they have the right resources, the appropriate direction, and the information needed to deliver websites, videos, presentations, print pieces, and business solutions that delight our clients."
+datePublished: '2016-04-18T17:51:14.588Z'
+dateModified: '2016-04-18T17:50:48.631Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-18-three-keys-to-managing-a-creative-team.md
 published: true
 authors: []
@@ -38,9 +40,9 @@ I've learned that creativity only happens when creative people are free to creat
 
 ## Creative teams need strong processes
 
-I would never feel comfortable with my project manager shooting video, writing code, or designing websites.  So, why would I feel comfortable with my creative professionals doing project management?
+I would never feel comfortable with my project manager shooting video, writing code, or designing websites. So, why would I feel comfortable with my creative professionals doing project management?
 
-> I would never feel comfortable with my project manager shooting video, writing code, or designing websites.  So, why would I feel comfortable with my creative professionals doing project management?
+> I would never feel comfortable with my project manager shooting video, writing code, or designing websites. So, why would I feel comfortable with my creative professionals doing project management?
 
 My team becomes frustrated when project management or other administrative tasks seep into their daily regimen. Any task that is not related to the creative process takes away from a creative team's value proposition. To eliminate this frustration and mitigate against stressful moments, repeatable processes should be put in place. At minimum the following processes should be defined so that a creative team members' time and energy is not burdened with administrative tasks:
 
@@ -52,7 +54,7 @@ If the creative team must be engaged in these administrative processes, they sho
 
 ## Creative teams need open communication channels
 
-For one reason or another, project managers sometimes end up gathering requirements or conducting ad hoc "visioning" meetings without a creative team member present. Although the project manager feels like he or she just added value to the process, the graphic designer is at risk of  creating something that is not what the client expected or desired. Then the graphic designer is frustrated when he/she gets the less than complimentary feedback, the project manager is embarrassed, and the client has lost confidence in the creative team. No one is happy.
+For one reason or another, project managers sometimes end up gathering requirements or conducting ad hoc "visioning" meetings without a creative team member present. Although the project manager feels like he or she just added value to the process, the graphic designer is at risk of creating something that is not what the client expected or desired. Then the graphic designer is frustrated when he/she gets the less than complimentary feedback, the project manager is embarrassed, and the client has lost confidence in the creative team. No one is happy.
 
 This type of situation can be avoided if the communication channels between the creative staff and the client are opened as early as appropriate in the project lifecycle.
 
