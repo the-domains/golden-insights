@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Among other things, Dr. Hecht's framework (learn more here and here), states that there are four frames or layers of identity that play off each other:"
-datePublished: '2016-04-18T17:49:15.449Z'
-dateModified: '2016-04-18T17:48:40.407Z'
-title: Using the Four Layers Of Identity To Become A Leader
+datePublished: '2016-04-18T17:57:26.650Z'
+dateModified: '2016-04-18T17:56:01.106Z'
+title: ''
 author:
   - name: ''
     url: ''
